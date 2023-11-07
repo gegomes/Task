@@ -3,7 +3,7 @@
 </p>
 
 # Clone este repositório
-$ git clone https://github.com/gegomes/Gofineces.git
+$ git clone https://github.com/gegomes/Task.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd gofinances
