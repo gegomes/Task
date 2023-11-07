@@ -1,6 +1,6 @@
-<h2>
+<h4>
   Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git e Node.js. Além disso é bom ter um editor para trabalhar com o código como VSCode.
-</h2>
+</h4>
 
 ## Clone este repositório
 $ git clone https://github.com/gegomes/Task.git
